@@ -204,7 +204,7 @@ How systems respond in real time
 
 It bridges the gap between theoretical cybersecurity concepts and real-world defensive implementation.
 
-👨‍💻 Author
+👨‍💻 Author ( Muhammad Sufyan Ayaz )
 
 Developed as a cybersecurity learning project for practical understanding of:
 Secure authentication
